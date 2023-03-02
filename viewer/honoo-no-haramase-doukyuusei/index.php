@@ -1,0 +1,1 @@
+<script>document.title="Ver Honoo no Haramase Doukyuusei";id_chapter="honoo-no-haramase-doukyuusei"</script><?php require("../../layout/view.php")?>

@@ -1,0 +1,1 @@
+<script>document.title="Ver Furifure 2";id_chapter="furifure-2"</script><?php require("../../layout/view.php")?>

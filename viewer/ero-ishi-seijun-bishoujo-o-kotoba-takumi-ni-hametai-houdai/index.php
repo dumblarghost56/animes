@@ -1,0 +1,1 @@
+<script>document.title="Ver Ero Ishi Seijun Bishoujo o Kotoba Takumi ni Hametai Houdai";id_chapter="ero-ishi-seijun-bishoujo-o-kotoba-takumi-ni-hametai-houdai"</script><?php require("../../layout/view.php")?>

@@ -1,0 +1,1 @@
+<script>document.title="Ver Hime-sama Love Life";id_chapter="himesama-love-life"</script><?php require("../../layout/view.php")?>

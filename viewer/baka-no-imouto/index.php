@@ -1,0 +1,1 @@
+<script>document.title="Ver Baka no Imouto";id_chapter="baka-no-imouto"</script><?php require("../../layout/view.php")?>

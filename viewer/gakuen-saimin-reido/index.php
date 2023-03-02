@@ -1,0 +1,1 @@
+<script>document.title="Ver Gakuen Saimin Reido";id_chapter="gakuen-saimin-reido"</script><?php require("../../layout/view.php")?>

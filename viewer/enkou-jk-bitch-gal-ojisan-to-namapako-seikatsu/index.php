@@ -1,0 +1,1 @@
+<script>document.title="Ver Enkou JK Bitch Gal Ojisan to Namapako Seikatsu";id_chapter="enkou-jk-bitch-gal-ojisan-to-namapako-seikatsu"</script><?php require("../../layout/view.php")?>

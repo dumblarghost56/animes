@@ -1,0 +1,1 @@
+<script>document.title="Ver Enjo Kouhai";id_chapter="enjo-kouhai"</script><?php require("../../layout/view.php")?>

@@ -1,0 +1,1 @@
+<script>document.title="Ver Akane wa Tsumareru Somareru";id_chapter="akane-wa-tsumare-somerareru"</script><?php require("../../layout/view.php")?>

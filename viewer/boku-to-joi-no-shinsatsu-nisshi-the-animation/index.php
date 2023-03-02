@@ -1,0 +1,1 @@
+<script>document.title="Ver Boku to Joi no Shinsatsu Nisshi The Animation";id_chapter="boku-to-joi-no-shinsatsu-nisshi-the-animation"</script><?php require("../../layout/view.php")?>

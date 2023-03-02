@@ -1,0 +1,1 @@
+<script>document.title="Ver Hyakkiya Tantei Jimusho Hyakkiya Hikari no Youkai Jikenbo";id_chapter="hyakkiya-tantei-jimusho-hyakkiya-hikari-no-youkai-jikenbo"</script><?php require("../../layout/view.php")?>

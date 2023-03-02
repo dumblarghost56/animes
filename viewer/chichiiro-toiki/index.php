@@ -1,0 +1,1 @@
+<script>document.title="Ver Chichi-iro Toiki";id_chapter="chichiiro-toiki"</script><?php require("../../layout/view.php")?>

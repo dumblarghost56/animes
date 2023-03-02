@@ -1,0 +1,1 @@
+<script>document.title="Ver Chiisana Tsubomi no Sono Oku Ni……";id_chapter="chiisana-tsubomi-no-sono-oku-ni"</script><?php require("../../layout/view.php")?>

@@ -1,0 +1,1 @@
+<script>document.title="Ver Harem Camp!";id_chapter="harem-camp"</script><?php require("../../layout/view.php")?>
